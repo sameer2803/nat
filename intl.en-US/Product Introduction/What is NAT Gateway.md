@@ -4,7 +4,7 @@ NAT Gateway is an enterprise-class Internet gateway that provides NAT proxy serv
 
 ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/13979/4440_en-US.png)
 
-As an Internet gateway, public IP addresses are required to make NAT Gateway fucntion normally. You can bind an Elastic IP Address \(EIP\) to a NAT Gateway as a public IP to use.
+As an Internet gateway, public IP addresses are required to make NAT Gateway function normally. You can bind an Elastic IP Address \(EIP\) to a NAT Gateway as a public IP to use.
 
 **Note:**  If your account has a purchased NAT bandwidth package before January 26, 2018, you still need to use the bandwidth package to provide public IPs. Open a ticket if you want to bind an EIP to NAT Gateway.
 
